@@ -1,2 +1,2 @@
-# ide_factory
+# idea_factory
 Never say never
